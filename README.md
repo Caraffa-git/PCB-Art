@@ -7,3 +7,4 @@
 - TarWarning: Explosions & Fire Discord
 - Big Scary Laser: [ElectricStuff](https://www.electricstuff.co.uk)
 - Drop&Run: [Caraffa](https://github.com/Caraffa-git)
+- Cursed Technology: [Caraffa](https://github.com/Caraffa-git)
