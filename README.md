@@ -16,3 +16,4 @@
 - HighVoltageWarning: [OpenClipArt](https://openclipart.org/detail/14450/danger-high-voltage-warning-sign)
 - ESD-paw: [diminDDL](https://github.com/diminDDL)
 - ESD-paw warning: [PowerMax](https://github.com/power-max)
+- Eat Shit RoHs and No RoHs: aspirintablet
