@@ -19,6 +19,5 @@
 - Eat Shit RoHs and No RoHs: aspirintablet
 
 **Other repositories**:
-- [misbrands](https://github.com/mkrl/misbrands)
-- ~~[rebrands](https://github.com/ZenithDS/rebrands)~~ (taken down?)
+- [misbrands (fork)](https://github.com/rogue-shadowdancer/misbrands)
 
