@@ -17,3 +17,8 @@
 - ESD-paw: [diminDDL](https://github.com/diminDDL)
 - ESD-paw warning: [PowerMax](https://github.com/power-max)
 - Eat Shit RoHs and No RoHs: aspirintablet
+
+**Other repositories**:
+- [misbrands](https://github.com/mkrl/misbrands)
+- ~~[rebrands](https://github.com/ZenithDS/rebrands)~~ (taken down?)
+
