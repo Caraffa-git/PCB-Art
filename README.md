@@ -20,6 +20,8 @@
 - Eat Shit RoHs and No RoHs: aspirintablet
 
 **TODO** – A directory of pictures or images requiring further editing to be suitable for proper usage
+- Pb approved: [FemboyEE](https://www.youtube.com/channel/UCqh78D0YHNhQevHI2JksAhw)
+- Laser safety: [Nevin Williams](https://www.youtube.com/@NevinWilliams71)
 
 **Other repositories**:
 - [misbrands (fork)](https://github.com/rogue-shadowdancer/misbrands)
