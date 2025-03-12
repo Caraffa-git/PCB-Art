@@ -19,6 +19,8 @@
 - ESD-paw warning: [PowerMax](https://github.com/power-max)
 - Eat Shit RoHs and No RoHs: aspirintablet
 
+**TODO** – A directory of pictures or images requiring further editing to be suitable for proper usage
+
 **Other repositories**:
 - [misbrands (fork)](https://github.com/rogue-shadowdancer/misbrands)
 
