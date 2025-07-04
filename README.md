@@ -19,7 +19,8 @@
 - ESD-paw warning: [PowerMax](https://github.com/power-max)
 - Eat Shit RoHs and No RoHs: aspirintablet
 
-**TODO**: (A directory of pictures or images requiring further editing to be suitable for proper usage)
+**TODO**:    
+(It's a directory of pictures or images requiring further editing to be suitable for proper usage)
 - Pb approved: [FemboyEE](https://www.youtube.com/channel/UCqh78D0YHNhQevHI2JksAhw)
 - Laser safety: [Nevin Williams](https://www.youtube.com/@NevinWilliams71)
 
